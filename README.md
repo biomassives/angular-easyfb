@@ -2,6 +2,8 @@
 
 AngularJS + Facebook JavaScript SDK.
 
+for 'lets take this off facebook' feature gateway to ecocity.com and ecomail.org  !
+
 **Since v1.1.0, `angular-easyfb` adds support for [Facebook Platform versioning](https://developers.facebook.com/docs/apps/changelog/).**
 
 **Please check out [the new FB JS SDK setup doc](https://developers.facebook.com/docs/javascript/quickstart/v2.0#loading) if you want to switch platform versions (module default is `v1.0`).**
